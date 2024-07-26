@@ -1,1 +1,1 @@
-# udp-mediaplayer
+Qt Mediaplayer using UDP Protocol
